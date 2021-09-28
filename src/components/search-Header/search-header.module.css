@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 4em;
+}
+.bar{
+    font-size: 1.4rem;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.logos{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    margin-right: 1em;
+}
+.search{
+    display: flex;
+}
+.searchinput{
+    padding: 1em;
+    width: 100%;
+}
+.button{
+    background-color: lightgray;
+    border: 1px solid grey;
+    padding: 1em 1.5em;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    border-radius: 50%;
+}
+.icon{
+    font-size: 1.4rem;
+}
+.profile{
+    border-radius: 50%;
+    width: 2em;
+    margin-right: 1em;
+}
