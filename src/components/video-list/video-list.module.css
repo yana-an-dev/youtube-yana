@@ -1,6 +1,7 @@
 .videolist{
+    max-width: 2000px;
     list-style: none;
-    margin: 0;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }

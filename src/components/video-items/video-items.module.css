@@ -1,9 +1,14 @@
 .videoitem{
     margin: 0.2em 0.5em;
     margin-right: 0.5em;
-    padding: 1em;
+    padding: 0.8em;
 }
-
+.title{
+    margin: 0;
+}
 .channeltitle{
 color:gray;
+margin-top: 0;
+margin-bottom: 0;
 }
+
